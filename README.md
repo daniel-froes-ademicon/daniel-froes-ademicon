@@ -58,20 +58,6 @@ I enjoy solving complex business problems, improving developer experience and cr
 
 ---
 
-# Tech Focus
-
-| Area | Technologies |
-|------|--------------|
-| **Frontend** | React • Next.js • TypeScript • JavaScript • Tailwind CSS |
-| **Backend** | Node.js • NestJS • Express |
-| **Database** | MongoDB • PostgreSQL • Redis |
-| **Cloud** | AWS • EC2 • S3 • CloudFront • API Gateway |
-| **APIs** | REST • GraphQL |
-| **DevOps** | Docker • GitHub Actions • CI/CD |
-| **Tools** | Git • GitHub • VS Code • Postman • PNPM |
-
----
-
 # Currently Working With
 
 - React & Next.js
@@ -104,8 +90,6 @@ My goal is to share practical solutions, reusable code and engineering best prac
 ---
 
 <div align="center">
-
-## 🐍 Contribution Snake
 
 <picture>
   <source
